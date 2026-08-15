@@ -4,16 +4,16 @@ Why send a boring "Happy Onam" text when you can send a **beautiful, musical, pe
 
 This project is a **Greeting Card Generator** for Onam. Instead of typing plain messages, you can create and share a **link** that opens a festive card with:
 
-* 🖋️ **Your Name**
-* 💌 **Personalized Message**
-* 🎶 **Onam Music**
+*  **Your Name**
+*  **Personalized Message**
+*  **Onam Music**
 
 ## Features
 
-* 🌼 Generate & share unique **Onam greeting card links**
-* 🖊️ Add your **name & message** for personalization
-* 🎶 Built-in **Onam music player** (click the button, feel the vibes!)
-* 📱 Works on desktop & mobile (because happiness should be cross-platform 💻📱)
+* Generate & share unique **Onam greeting card links**
+* Add your **name & message** for personalization
+* Built-in **Onam music player** (click the button, feel the vibes!)
+* Works on desktop & mobile (because happiness should be cross-platform)
 
 ---
 
