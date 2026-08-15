@@ -13,7 +13,6 @@ const manjari = localFont({
   style: "normal",
 });
 
-// Hook to detect mobile
 function useIsMobile(breakpoint: number = 768) {
   const [isMobile, setIsMobile] = useState(false);
   useEffect(() => {
